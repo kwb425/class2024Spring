@@ -1,0 +1,9 @@
+This is line 1 with some text.::1
+Line 2 contains numbers: 10, 20, 30.::2
+This is line 3, and it has an email: user@example.com::3
+Line 4 is for fun! Let's see what awk can do.::4
+Report: classified, data, analysis::5
+Department: Engineering, Research, Marketing::6
+department: Engineering, Research, Marketing::7
+    department: Engineering, Research, Marketing::8
+    department: Engineering, Research, Marketing::8
